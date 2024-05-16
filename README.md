@@ -1,16 +1,19 @@
 # CPSC 449 - Final Project
 
+### Group Members
+- Nevan Nguyen (Nevanem@csu.fullerton.edu)
+
 ### Developing a REST API in Flask for CPSC 449 Web Backend Engineering
 
 ## Usage
 
 1. Clone the repository
 
-   - `$ git clone https://github.com/NevanN/cpsc449proj1.git`
+   - `$ git clone https://github.com/NevanN/cpsc449-final.git`
 
 2. Navigate to the directory
 
-   - `$ cd cpsc449proj1`
+   - `$ cd cpsc449_final`
 
 3. Create and activate a virtual environment
 
@@ -27,10 +30,15 @@
      - `$ mysql -u root -p`
    - Create database and tables
      - `mysql> source userdb.sql`
+    
+   OR download MySQL extension in VS Code
+   - Create connection by clicking on NoSQL icon in VS Code
+![image](https://github.com/NevanN/cpsc449-final/assets/46946283/ede7f23f-d6d5-4efa-85e7-24fc2349d09f)
+   - Username = root / Password = password
 
 6. Run the Flask application
 
-   - `python main.py`
+   - `python cpsc449_final.py`
 
 ## Photos
 - User Auth Page                                                        
