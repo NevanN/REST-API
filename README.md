@@ -1,4 +1,4 @@
-# CPSC 449 - Midterm Project
+# CPSC 449 - Final Project
 
 ### Developing a REST API in Flask for CPSC 449 Web Backend Engineering
 
@@ -38,7 +38,11 @@
 - Login/Home Page
 ![image](https://github.com/NevanN/cpsc449proj1/assets/46946283/2f5ed5c2-4aa9-47ff-8818-7384c90553e9)
 - After successfully logging in
-![image](https://github.com/NevanN/cpsc449proj1/assets/46946283/55abba0e-be62-49b9-85d6-e7b6ad98332f)
+![image](https://github.com/NevanN/cpsc449-final/assets/46946283/0de2e098-bf2c-4ac8-bdd0-bda4df520904)
+- File upload
+![image](https://github.com/NevanN/cpsc449-final/assets/46946283/98b9986b-7b38-40b3-860d-998e18633440)
+- After successfully uploading file
+![image](https://github.com/NevanN/cpsc449-final/assets/46946283/11a511db-9663-44ad-9e55-4fe971044e5f)
 - List of users                        
 ![image](https://github.com/NevanN/cpsc449proj1/assets/46946283/4f664b8b-4e32-4d9b-99f5-7b23835f82c1)
 - User Registration
