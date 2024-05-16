@@ -33,6 +33,8 @@
    - `python main.py`
 
 ## Photos
+- User Auth Page
+![image](https://github.com/NevanN/cpsc449-final/assets/46946283/c68b9496-9775-4e4c-b94a-b3a8e96cc139)
 - Login/Home Page
 ![image](https://github.com/NevanN/cpsc449proj1/assets/46946283/2f5ed5c2-4aa9-47ff-8818-7384c90553e9)
 - After successfully logging in
