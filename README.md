@@ -1,9 +1,9 @@
-# CPSC 449 - Final Project
+# REST API FINAL
 
-### Group Members
+### Members
 - Nevan Nguyen (Nevanem@csu.fullerton.edu)
 
-### Developing a REST API in Flask for CPSC 449 Web Backend Engineering
+### Developing a REST API in Flask for Web Backend Engineering
 
 ## Usage
 
